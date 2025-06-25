@@ -1,0 +1,30 @@
+# === Unity generated folders ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Ignore Unity package cache to avoid huge files
+Library/PackageCache/
+
+# === User-specific files ===
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# === OS generated ===
+.DS_Store
+Thumbs.db
+
+# === Unity Asset Store Tools ===
+Assets/AssetStoreTools*

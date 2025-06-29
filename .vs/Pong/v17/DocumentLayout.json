@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aashi\\Desktop\\projects\\2d platformer\\Pong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\aashi\\Desktop\\projects\\2d platformer\\Pong\\assets\\ballmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\ballmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|c:\\users\\aashi\\desktop\\projects\\2d platformer\\pong\\assets\\aipaddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\aipaddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|c:\\users\\aashi\\desktop\\projects\\2d platformer\\pong\\assets\\playerpaddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\playerpaddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIPaddle.cs",
+              "DocumentMoniker": "C:\\Users\\aashi\\Desktop\\projects\\2d platformer\\Pong\\Assets\\AIPaddle.cs",
+              "RelativeDocumentMoniker": "Assets\\AIPaddle.cs",
+              "ToolTip": "C:\\Users\\aashi\\Desktop\\projects\\2d platformer\\Pong\\Assets\\AIPaddle.cs",
+              "RelativeToolTip": "Assets\\AIPaddle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:02:20.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BallMovement.cs",
+              "DocumentMoniker": "C:\\Users\\aashi\\Desktop\\projects\\2d platformer\\Pong\\Assets\\BallMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\BallMovement.cs",
+              "ToolTip": "C:\\Users\\aashi\\Desktop\\projects\\2d platformer\\Pong\\Assets\\BallMovement.cs",
+              "RelativeToolTip": "Assets\\BallMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:36:47.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerPaddle.cs",
+              "DocumentMoniker": "C:\\Users\\aashi\\Desktop\\projects\\2d platformer\\Pong\\Assets\\PlayerPaddle.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerPaddle.cs",
+              "ToolTip": "C:\\Users\\aashi\\Desktop\\projects\\2d platformer\\Pong\\Assets\\PlayerPaddle.cs",
+              "RelativeToolTip": "Assets\\PlayerPaddle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:23:31.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

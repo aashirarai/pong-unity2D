@@ -13,19 +13,18 @@ public class Ball : MonoBehaviour
     private void Start()
     {
         ResetPosition();
+        AddStartingForce();
     }
 
-    // function to reset the position of the ball to the center and add starting force
+    // function to reset the position of the ball to the center
     public void ResetPosition()
     {
         rb.position = Vector3.zero;
         rb.linearVelocity = Vector3.zero;
-
-        AddStartingForce();
     }
 
     // function to add a random starting force to the ball
-    private void AddStartingForce()
+    public void AddStartingForce()
     {
         // randomly determine which direction ball starts moving in
         float x = Random.value < 0.5f ? -1.0f : 1.0f;

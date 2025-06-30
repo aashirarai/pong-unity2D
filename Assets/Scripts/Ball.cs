@@ -25,4 +25,10 @@ public class Ball : MonoBehaviour
         Vector2 direction = new Vector2(x, y);
         rb.AddForce(direction * this.speed);
     }
+
+    // public function to add force to ball from elsewhere
+    public void AddForce(Vector2 force)
+    {
+        rb.AddForce(force);
+    }
 }

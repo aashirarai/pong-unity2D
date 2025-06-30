@@ -12,9 +12,19 @@ public class Ball : MonoBehaviour
 
     private void Start()
     {
+        ResetPosition();
+    }
+
+    // function to reset the position of the ball to the center and add starting force
+    public void ResetPosition()
+    {
+        rb.position = Vector3.zero;
+        rb.linearVelocity = Vector3.zero;
+
         AddStartingForce();
     }
 
+    // function to add a random starting force to the ball
     private void AddStartingForce()
     {
         // randomly determine which direction ball starts moving in
@@ -26,7 +36,7 @@ public class Ball : MonoBehaviour
         rb.AddForce(direction * this.speed);
     }
 
-    // public function to add force to ball from elsewhere
+    // function to add force to ball from elsewhere
     public void AddForce(Vector2 force)
     {
         rb.AddForce(force);

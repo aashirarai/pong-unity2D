@@ -22,6 +22,8 @@ Library/PackageCache/
 *.booproj
 *.svd
 
+.vs/
+
 # === OS generated ===
 .DS_Store
 Thumbs.db
